@@ -51,7 +51,7 @@ Simplifying vendor onboarding, compliance, operational visibility, and performan
 - **100+** Business Clients Served
 - **1,500+** Deliveries Every Day
 - **150+** Workforce Managed
-- **2,000+** Pincodes Covered
+- **200+** Pincodes Covered
 - **Pan-India** Operational Network
 
 ---
