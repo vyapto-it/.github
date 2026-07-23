@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚚 VYAP**TO**
+# 🚚 Vyapto Commerce Private Limited
 
 
 
@@ -147,7 +147,7 @@ Streamlined vendor onboarding, compliance tracking, operational visibility, and 
 ---
 
 
-### 🚚 VYAPTO
+### 🚚 Vyapto Commerce Private Limited
 
 
 
