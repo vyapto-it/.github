@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="logo.png" alt="Vyapto — Growing Together. Delivering Excellence." width="340" />
+# 🚚 VYAP**TO**
 
-<br/><br/>
+
 
 [![Website](https://img.shields.io/badge/🌐%20Website-vyapto.com-FF8C00?style=for-the-badge&logoColor=white)](https://www.vyapto.com)
 [![Email](https://img.shields.io/badge/📧%20Email-info@vyapto.com-1877F2?style=for-the-badge&logoColor=white)](mailto:info@vyapto.com)
@@ -146,11 +146,10 @@ Streamlined vendor onboarding, compliance tracking, operational visibility, and 
 
 ---
 
-<div align="center">
 
-<img src="logo.png" alt="Vyapto" width="200" />
+### 🚚 VYAPTO
 
-<br/><br/>
+
 
 **Building Partnerships &nbsp;•&nbsp; Creating Opportunities &nbsp;•&nbsp; Driving Growth**
 
